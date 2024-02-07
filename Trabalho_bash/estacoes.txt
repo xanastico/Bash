@@ -1,0 +1,2 @@
+ID:Tipo:Nome:Localização:Preço Final($):Antena:Recetor:Software
+1:Estacao:XPO12:Covilha:200:AG25:MR2:UBI

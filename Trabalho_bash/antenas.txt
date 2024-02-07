@@ -1,0 +1,2 @@
+ID:Tipo:Nome:Fornecedor:Preco($):Sinais
+1:Antena:AG25:Trimble:60:GPS

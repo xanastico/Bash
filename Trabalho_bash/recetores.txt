@@ -1,0 +1,2 @@
+ID:Tipo:Nome:Fornecedor:Preco($)
+1:Recetor:MR2:TOPCON:80
